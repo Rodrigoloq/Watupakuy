@@ -1,0 +1,1172 @@
+{
+  "regions": [
+    {
+      "title": "Amazonas",
+      "description": "Bosques de neblina y páramos con privilegiados microclimas te dan la bienvenida a un departamento donde la historia y la naturaleza están en su máxima expresión. Descubre en Amazonas imponentes paisajes, una flora y fauna envidiable y encuentra en cada una de sus estructuras arquitectónicas, como la enigmatica ciudadela de Kuélap, y sus misteriosas tumbas y sarcófagos, un relato diferente.",
+      "best_places": [
+        {
+          "title": "Área de Conservación Privada Abra Patricia",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/area-abra-patricia_card.webp"
+        },
+        {
+          "title": "Bagua",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Bagua/Card_bagua.webp"
+        },
+        {
+          "title": "Catarata de Gocta",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-cataracta-gocta.webp"
+        },
+        {
+          "title": "Caverna de Quiocta",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Caverna-Quiocta0.webp"
+        },
+        {
+          "title": "Ciudad de Chachapoyas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/chachapoyas_card.webp"
+        },
+        {
+          "title": "Complejo Arqueológico Monumental Kuélap",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-kuelab.webp"
+        },
+        {
+          "title": "Distrito de Huancas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/distrito-huancas_card.webp"
+        },
+        {
+          "title": "Distrito de Levanto",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Distrito-de-Levanto0.webp"
+        },
+        {
+          "title": "Lago Pomacochas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/LagunaBurlanCARD.webp"
+        },
+        {
+          "title": "Laguna Burlán",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/lago-pomacochas_card.webp"
+        },
+        {
+          "title": "Laguna de los Cóndores",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/BN_card_condores_400x400.webp"
+        },
+        {
+          "title": "Mausoleos de Revash",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/mausoleos-revash_card.webp"
+        },
+        {
+          "title": "Museo Leymebamba",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/museo-leymebamba_card.webp"
+        },
+        {
+          "title": "Sarcófagos de Karajía",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/sarcofagos-karajia_card.webp"
+        },
+        {
+          "title": "Valle Huaylla Belén",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-huaylla_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Áncash",
+      "description": "En Áncash encontrarás nevados, lagunas, valles y playas que te impresionarán. Aventúrate a probar los circuitos de trekking (caminata), recorre su geografía en bicicleta de montaña, disfruta de la naturaleza, hermosas lagunas y nevados que cautivarán tus sentidos. Una infinidad de posibilidades te esperan. Disfruta de sus fiestas y mira cómo se llenan de color las calles de esta ciudad que recoge la tradición y el presente de sus habitantes.",
+      "best_places": [
+        {
+          "title": "Callejón de Huaylas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/callejon-huaylas_card.webp"
+        },
+        {
+          "title": "Casma",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/casma_card.webp"
+        },
+        {
+          "title": "Chacas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/chacas_card.webp"
+        },
+        {
+          "title": "Chavín",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/monumento-museo-chavin_card.webp"
+        },
+        {
+          "title": "Chiquián",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/festividades/Plaza-Mayor-de-ChiquiánCARD.webp"
+        },
+        {
+          "title": "Huaraz",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-huaraz_card.webp"
+        },
+        {
+          "title": "Parque Nacional Huascarán",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/parque-huascaran_card.webp"
+        },
+        {
+          "title": "Playas de Áncash",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/playas-ancash_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Apurímac",
+      "description": "Hacer parapente en Sóndor, canotaje en el río Pachachaca y downhill en bicicleta son algunas de las actividades que podrías disfrutar durante tu estadía en la región de Apurímac, considerada como el perfecto escenario de los deportes de aventura. Y si lo tuyo es relajarte, no te preocupes, que los baños termales como Cconoc y sitios arqueológicos como el Conjunto Arqueológico de Saywite y el Complejo Arqueológico Sóndor te darán una experiencia única. Definitivamente, Apurímac es un lugar que no puedes dejar de visitar.",
+      "best_places": [
+        {
+          "title": "Baños Termales de Cconoc",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/banos-termales-cconoc_card.webp"
+        },
+        {
+          "title": "Bosque de Piedras de Pampachiri",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/bosque-piedras-pampachiri_card.webp"
+        },
+        {
+          "title": "Cañón del Apurímac",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/canon-apurimac_card.webp"
+        },
+        {
+          "title": "Ciudad de Abancay",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-abancay_card.webp"
+        },
+        {
+          "title": "Ciudad de Andahuaylas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-andahuaylas_card.webp"
+        },
+        {
+          "title": "Complejo arqueológico de Sóndor",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Sondor-CARD1.webp"
+        },
+        {
+          "title": "Conjunto Arqueológico de Saywite",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/conjunto-saywite_card.webp"
+        },
+        {
+          "title": "Laguna de Pacucha",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Laguna-de-PacuchaCARD.webp"
+        },
+        {
+          "title": "Provincia de Aymaraes",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-aymaraes_card.webp"
+        },
+        {
+          "title": "Santuario de Cocharcas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/santuario-cocharcas_card.webp"
+        },
+        {
+          "title": "Santuario Nacional de Ampay",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/santuario-ampay_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Arequipa",
+      "description": "Conocida como la Ciudad Blanca por su arquitectura esculpida en sillar, Arequipa resplandece favorecida por un clima siempre soleado todo el año y un cielo azul que te invitan a caminar y admirar la belleza de sus monumentos, nevados, volcanes y profundos cañones, además de disfrutar de su exquisita gastronomía y una vida nocturna que te animarán a regresar más de una vez.",
+      "best_places": [
+        {
+          "title": "Baños Termales de Yura",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/banos-termales-yura_card.webp"
+        },
+        {
+          "title": "Campiña de Arequipa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/campina-arequipa_card.webp"
+        },
+        {
+          "title": "Centro Histórico de Arequipa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/centro-arequipa_card.webp"
+        },
+        {
+          "title": "Circuito de Playas de Camaná",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/circuito-playas-camana_card.webp"
+        },
+        {
+          "title": "Cuevas de Arte Rupestre de Sumbay",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cuevas-arte-sumbay_card.webp"
+        },
+        {
+          "title": "Islay",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/circuito-playas-mollendo_card.webp"
+        },
+        {
+          "title": "Pueblos Tradicionales",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-pueblos-tradicionales-arequipa.webp"
+        },
+        {
+          "title": "Puerto Inka",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/puerto-inka_card.webp"
+        },
+        {
+          "title": "Reserva Nacional de Salinas y Aguada Blanca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Reserva-Nacional-de-Salinas-y-Aguada-BlancaCARD.webp"
+        },
+        {
+          "title": "Santuario Nacional Lagunas de Mejía",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/santuario-lagunas-mejia_card.webp"
+        },
+        {
+          "title": "Valle de los Volcanes",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-de-volcanes_card.webp"
+        },
+        {
+          "title": "Valle de Majes y Petroglifos de Toro Muerto",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-de-majes_card.webp"
+        },
+        {
+          "title": "Valle y cañón de Cotahuasi",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-canon-cotahuasi_card.webp"
+        },
+        {
+          "title": "Valle y cañón del Colca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-canon-colca_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Ayacucho",
+      "description": "Ayacucho es naturaleza y fiesta. Recorre sus casonas e iglesias coloniales como la Catedral y el templo de Santo Domingo; disfruta de sus fiestas llenas de color y diviértete en Semana Santa con un pueblo arraigado en su fe. Conoce la tradición alfarera de la mano de sus artesanos y deja que sus paisajes de desbordada naturaleza viva te desconecten. Ayacucho, un lugar que merece ser recorrido en su totalidad, te espera.",
+      "best_places": [
+        {
+          "title": "Artesanías Ayacucho",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-artesanias-ayacucho.webp"
+        },
+        {
+          "title": "Bosque de Puyas de Raimondi (Titankayocc)",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/bosque-puya-raimondi_card.webp"
+        },
+        {
+          "title": "Cataratas de Pumapaqcha, Batán y Qorimaqma",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cataratas-pumapaqcha_card.webp"
+        },
+        {
+          "title": "Ciudad de Ayacucho",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Ciudad-de-AyacuchoCARD.webp"
+        },
+        {
+          "title": "Ciudad de Huanta",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-ciudad-huanta-ayacucho.webp"
+        },
+        {
+          "title": "Complejo arqueológico de Wari",
+          "image": "https://www.ytuqueplanes.com/imagenes/images/noticias/Galerias-subterraneas-card.webp"
+        },
+        {
+          "title": "Complejos Arqueológicos en Ayacucho",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-intiwatana_card.webp"
+        },
+        {
+          "title": "Cueva de Pikimachay, ciudad de Huanta y Luricocha",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cueva-pikimachay_card.webp"
+        },
+        {
+          "title": "Millpu: Aguas turquesas",
+          "image": "https://www.ytuqueplanes.com/imagenes/images/noticias/Paisaje-desde-el-mirador-card.webp"
+        },
+        {
+          "title": "Pueblo Tradicional de Quinua",
+          "image": "https://www.ytuqueplanes.com/imagenes/images/noticias/Paseo-por-el-pueblo-de-Quinua-card.webp"
+        },
+        {
+          "title": "Reserva Nacional Pampa Galeras Bárbara D'achille",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/reserva-pampa_card(1).webp"
+        },
+        {
+          "title": "Santuario Histórico de la Pampa de Ayacucho",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-santuario-historico-pampa-ayacucho.webp"
+        },
+        {
+          "title": "Templo y Barrios Artesanales de Santa Ana",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/templo-santa-ana_card.webp"
+        },
+        {
+          "title": "Valle de Andamarca y Valle del Sondondo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-sondono_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Cajamarca",
+      "description": "Cajamarca es una tierra donde la historia se une a la naturaleza para crear una experiencia inolvidable. Encuentra en esta región una magní\u00ADfica arquitectura colonial, pueblos coloridos y una gastronomí\u00ADa digna de admirar. Relájate en los Baños del Inca, admira el Complejo Arqueológico de Cumbemayo y diviértete en sus carnavales llenos de vida y color. Definitivamente aquí lo pasarás bien!",
+      "best_places": [
+        {
+          "title": "Ciudad de Cajamarca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-cajamarca_card.webp"
+        },
+        {
+          "title": "Complejo Arqueológico de Cumbemayo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-cumbemayo_card.webp"
+        },
+        {
+          "title": "Complejo Turístico Baños del Inca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-turistico-inca_card.webp"
+        },
+        {
+          "title": "Granja Porcón",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/granja-porcon_card.webp"
+        },
+        {
+          "title": "Hacienda La Colpa",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-cajamarca-v2.webp"
+        },
+        {
+          "title": "Jaén",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/1_BN_card_jaen.webp"
+        },
+        {
+          "title": "Provincia de San Pablo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-san-pablo_card.webp"
+        },
+        {
+          "title": "San Ignacio",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/BN_card_ignacio.webp"
+        },
+        {
+          "title": "San Miguel de Pallaques",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Cajamarca/Card_San_Miguel_Cajamarca_515.webp"
+        },
+        {
+          "title": "Ventanillas de Combayo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ventanillas-combayo_card.webp"
+        },
+        {
+          "title": "Ventanillas de Otuzco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ventanillas-otuzco_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Callao",
+      "description": "Perú está lleno de encantos, esta región lo demuestra con sus atractivos.",
+      "best_places": [
+        {
+          "title": "Barrio de La Punta y Barrio de Chucuito",
+          "image": "https://www.ytuqueplanes.com/imagenes/images/noticias/Paseo-en-scooter-por-el-Malecon-La-Punta-card.webp"
+        },
+        {
+          "title": "Ciudad del Callao",
+          "image": "https://www.ytuqueplanes.com/imagenes/images/noticias/Comiendo-pan-con-Pejerrey-card.webp"
+        },
+        {
+          "title": "Museo de Sitio Naval Submarino Abtao",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/submarino-abtao_card.webp"
+        },
+        {
+          "title": "Reserva Nacional Sistema de Islas, Islotes y Puntas Guaneras - Islas Cavinzas e Islas Palominos ",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/sistema-de-islas_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Cusco",
+      "description": "Hablar de Cusco es hablar de la esencia del turismo en Perú. Conocido como el ombligo del mundo, este destino combina historia, cultura viva y aventura en cada rincón. Desde la majestuosa Plaza de Armas de Cusco hasta los valles sagrados, hay infinitos lugares turísticos de Cusco que asombran a cada viajero. En tu viaje podrás llenarte de energía en Moray, descubrir la imponente arquitectura de Ollantaytambo y Pisac, y vivir la experiencia más emblemática del turismo en Cusco: conocer la ciudad inka de Machu Picchu. Sin duda, Cusco se posiciona como uno de los principales lugares turísticos del Perú, un punto de partida ideal para explorar otros destinos como Anta Cusco y los valles cercanos.",
+      "best_places": [
+        {
+          "title": "Camino Inca a Machupicchu",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/camino-inca-machupiccchu_card.webp"
+        },
+        {
+          "title": "Circuito Cuatro Lagunas ",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-circuito-cuatro-lagunas-cusco.webp"
+        },
+        {
+          "title": "Circuito del Barroco Andino",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/CircuitodelbarrocoandinoCARD.webp"
+        },
+        {
+          "title": "Ciudad de Cusco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-cusco_card.webp"
+        },
+        {
+          "title": "Complejos Arqueológicos Cusco Ciudad",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/parque-sacsayhuaman_card.webp"
+        },
+        {
+          "title": "Corredor Valle Sur",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Corredor-Valle-SurCARD.webp"
+        },
+        {
+          "title": "Laguna de Humantay",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/laguna-humantay_card.webp"
+        },
+        {
+          "title": "Machupicchu Pueblo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/card-machupicchu-pueblo.webp"
+        },
+        {
+          "title": "Nevado del Ausangate",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/nevado-ausangate_card.webp"
+        },
+        {
+          "title": "Parque Arqueológico de Choquequirao",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Parque-Arqueológico-de-ChoquequiraoCARD.webp"
+        },
+        {
+          "title": "Parque Arqueológico de Raqchi",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Parque-Arqueológico-de-RaqchiCARD.webp"
+        },
+        {
+          "title": "Parque Nacional Manu",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/parque-nacional-manu_card.webp"
+        },
+        {
+          "title": "Parque Temático de Camélidos Awanakancha",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/parque-tematico-awanakancha_card.webp"
+        },
+        {
+          "title": "Provincia de Anta",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-anta_card.webp"
+        },
+        {
+          "title": "Provincia de Calca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Provincia-de-CalcaCARD.webp"
+        },
+        {
+          "title": "Provincia de Canas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-canas_card.webp"
+        },
+        {
+          "title": "Provincia de Canchis",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-canchis_card.webp"
+        },
+        {
+          "title": "Provincia de La Convención",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-la-convencion_card.webp"
+        },
+        {
+          "title": "Provincia de Paucartambo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/PaucartamboCARD.webp"
+        },
+        {
+          "title": "Santuario Histórico - Parque Arqueológico Nacional de Machupicchu",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-santuario-historico-parque-arqueologico-nacional-machupicchu.webp"
+        },
+        {
+          "title": "Valle Sagrado",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/valle-sagrado_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Huancavelica",
+      "description": "El corazón de los andes se encuentra dominado por dos grandes culturas: Wari y Chancas. Transformada luego en centro militar por los Incas y convertida en ciudad española para la explotación de la plata y el mercurio, Huancavelica tiene muchos rostros y los muestra con orgullo en los sitios arqueológicos, templos y casonas del casco urbano. Un pasado rodeado de un grato entorno natural de saludables aguas termales, fértiles tierras, lagunas y nevados.",
+      "best_places": [
+        {
+          "title": "Circuito Azogue",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/circuito-azogue_card.webp"
+        },
+        {
+          "title": "Circuito Huaytará",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/circuito-huaytara_card.webp"
+        },
+        {
+          "title": "Circuito Rutas de los Espejos",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/circuito-espejos_card.webp"
+        },
+        {
+          "title": "Circuito Uchkus Inkañan",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/circuito-inkanan_card.webp"
+        },
+        {
+          "title": "Ciudad de Huancavelica",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-huancavelica_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Huánuco",
+      "description": "Huánuco te muestra la unión de la sierra y la selva peruana. Visita sus elevadas montañas, aguas termales, cuevas, lagunas y una seductora formación rocosa llamada la Bella Durmiente; llénate de historia con sus monumentos como el Templo de la Manos Cruzadas y aventúrate a conocer la naturaleza viva en la Cueva de las Lechuzas de Tingo María. La región huanuqueña tiene mucho por ofrecerte.",
+      "best_places": [
+        {
+          "title": "Cataratas de Tingo María",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cataratas-tingo-maria_card.webp"
+        },
+        {
+          "title": "Complejo Arqueológico de Garu",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-grau_card.webp"
+        },
+        {
+          "title": "Dos de Mayo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/la-union-dos-mayo_card.webp"
+        },
+        {
+          "title": "Huánuco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-huanuco_card.webp"
+        },
+        {
+          "title": "Parque Nacional Tingo María",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/parque-nacional-tingo_card.webp"
+        },
+        {
+          "title": "Tingo María",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/tingo-maria_card.webp"
+        },
+        {
+          "title": "Tomayquichua",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/tomayquicha_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Ica",
+      "description": "Ica es mucho más que la cuna del mejor pisco. Aquí podrás disfrutar de soleadas playas, fértiles valles vitivinícolas, y del asombroso oasis de la Huacachina, un paraíso rodeado de dunas donde la aventura nunca termina. A tan solo unas horas de Lima, esta región te ofrece la combinación perfecta de historia, naturaleza y relax.",
+      "best_places": [
+        {
+          "title": "Acueducto de Cantalloc",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/acueducto-cantalloc_card.webp"
+        },
+        {
+          "title": "Casa Museo María Reiche",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/museo-maria-reiche_card.webp"
+        },
+        {
+          "title": "Cementerio de Chauchilla",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cementerio-chauchilla_card.webp"
+        },
+        {
+          "title": "Centro Ceremonial de Cahuachi",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/centro-cahuachi_card.webp"
+        },
+        {
+          "title": "Cerro Blanco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cerro-blanco_card.webp"
+        },
+        {
+          "title": "Ciudad de Chincha",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-chincha_card.webp"
+        },
+        {
+          "title": "Ciudad de Ica",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Ciudad-de-IcaCARD.webp"
+        },
+        {
+          "title": "Ciudad de Nasca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Ciudad-de-NascaCARD.webp"
+        },
+        {
+          "title": "Islas Ballestas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/islas-ballestas_card.webp"
+        },
+        {
+          "title": "Líneas de Nasca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/lineas-nasca_card.webp"
+        },
+        {
+          "title": "Reserva Nacional de Paracas",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-reserva-nacional-paracas.webp"
+        },
+        {
+          "title": "Reserva Nacional de San Fernando",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/reserva-san-fernando_card.webp"
+        },
+        {
+          "title": "Zona Arqueológica Tambo Colorado",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/zona-tambo-colorado_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Junín",
+      "description": "Cataratas y valles con paisajes en su estado más puro, pueblos con profunda vocación religiosa y una reserva nacional con animales del ande son algunas de las muchas caracterí\u00ADsticas que envuelven a Juní\u00ADn y la convierten en una región llena de sorpresas. Atrévete a ir más allá ¡ y realiza deportes de aventura como el canotaje en el río Chanchamayo o trekking en el nevado de Huaytapallana.",
+      "best_places": [
+        {
+          "title": "Chanchamayo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/chanchamayo_card.webp"
+        },
+        {
+          "title": "Concepción",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/concepcion_card.webp"
+        },
+        {
+          "title": "Huancayo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/huancayo_card.webp"
+        },
+        {
+          "title": "Jauja",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/jauja_card.webp"
+        },
+        {
+          "title": "Reserva Nacional de Junín",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/card-reserva-naciona-junin.webp"
+        },
+        {
+          "title": "Satipo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/satipo_card.webp"
+        },
+        {
+          "title": "Tarma",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/tarma_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "La Libertad",
+      "description": "Visita la ciudad de barro de Chan Chan, templos, pirámides y huacas. Vive una experiencia inolvidable en La Libertad por Semana Santa.",
+      "best_places": [
+        {
+          "title": "Balneario de Huanchaco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/balneario-huanchaco_card.webp"
+        },
+        {
+          "title": "Balneario de Pacasmayo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/balneario-pacasmayo_card(1).webp"
+        },
+        {
+          "title": "Bosque Natural El Cañoncillo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-bosque-natural-el-canoncillo.webp"
+        },
+        {
+          "title": "Campiña de Moche",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/515x750hps9484.webp"
+        },
+        {
+          "title": "Ciudad de Trujillo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-de-trujillo_card.webp"
+        },
+        {
+          "title": "Complejo Arqueológico Chan Chan",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-chan-chan_card.webp"
+        },
+        {
+          "title": "Complejo arqueológico El Brujo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/c-complejo-arqueologico-brujo.webp"
+        },
+        {
+          "title": "Complejo Arqueológico Huacas de Moche",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/515x7509261.webp"
+        },
+        {
+          "title": "Distrito de Huamachuco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/distrito-huamachuco_card.webp"
+        },
+        {
+          "title": "Huaca Arco Iris",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/huaca-arco-iris_card.webp"
+        },
+        {
+          "title": "Otuzco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/otuzco-la-libertad_card.webp"
+        },
+        {
+          "title": "Balneario de Puerto Malabrigo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/balneario_de_puerto_malabrigo_mobile.webp"
+        }
+      ]
+    },
+    {
+      "title": "Lambayeque",
+      "description": "Lambayeque es una región pintoresca que tiene mucho que ofrecer: podrás conocer el legado arqueológico cultural no solo por sus monumentos históricos como el Señor de Sipán, sus valles y pirámides, sino también por su exquisita gastronomía en sus afamados restaurantes y la amabilidad de su gente. Vive una aventura paseando en bicicleta o disfrutando un picnic el Santuario Histórico Bosque de Pomac, y deja que sus playas con los milenarios caballitos de totora te desconecten de la ciudad.",
+      "best_places": [
+        {
+          "title": "Artesanías Lambayeque",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Artesanias-lambayeque-card.webp"
+        },
+        {
+          "title": "Caleta Santa Rosa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/caleta-santa-rosa_card.webp"
+        },
+        {
+          "title": "Ciudad de Chiclayo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/ciudad-de-chiclayo/ciudad-de-chiclayo-23nov20-card.webp"
+        },
+        {
+          "title": "Ciudad de Lambayeque",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Plaza-de-Armas-LambayequeCARD.webp"
+        },
+        {
+          "title": "Complejo Arqueológico de Túcume",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/c-01.webp"
+        },
+        {
+          "title": "Complejo Arqueológico Huaca Chotuna - Chornancap",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/huaca-chotuna_card.webp"
+        },
+        {
+          "title": "Ferreñafe",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ferrenafe_card.webp"
+        },
+        {
+          "title": "Monsefú",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/c-03.webp"
+        },
+        {
+          "title": "Museo de Sitio y Complejo Arqueológico Huaca Rajada - Sipán",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/museo-sipan_card.webp"
+        },
+        {
+          "title": "Pimentel",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/c-02.webp"
+        },
+        {
+          "title": "Puerto Eten",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/puerto-eten-estacion_card.webp"
+        },
+        {
+          "title": "Refugio de Vida Silvestre Laquipampa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/refugio-laquipampa_card.webp"
+        },
+        {
+          "title": "Reserva Ecológica de Chaparri",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-reserva-ecologica-chaparri.webp"
+        },
+        {
+          "title": "Santuario Histórico Bosque de Pómac",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/c-04.webp"
+        },
+        {
+          "title": "Zaña",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/convento-zana_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Lima",
+      "description": "Recorrer las calles de Lima es admirar sus iglesias, sitios arqueológicos y casonas con balcones que conviven con modernos edificios. Lima también ofrece una gran variedad de espectáculos culturales y es reconocida en el mundo por ser la Capital Gastronómica de Latinoamérica. Su cocina que se ha nutrido de tradiciones andinas, europeas, africanas y orientales, y en sus restaurantes se pueden disfrutar las cocinas regionales del Perú. Lima tiene el privilegio de ser la única capital de Sudamérica ubicada a orillas del mar. Por eso, les ofrece a los turistas comenzar o terminar el día en caminatas o paseos en bicicleta por sus malecones. Lima, un amor a primera vista para los que desean vivir una experiencia única.",
+      "best_places": [
+        {
+          "title": "Antioquía",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/antioquia_card.webp"
+        },
+        {
+          "title": "Azpitia",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-azpitia-lima.webp"
+        },
+        {
+          "title": "Barranca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/barranca_card.webp"
+        },
+        {
+          "title": "Canta",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-canta-lima.webp"
+        },
+        {
+          "title": "Churín",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-plaza-churin.webp"
+        },
+        {
+          "title": "Ciudad de Lima",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-ciudad-lima.webp"
+        },
+        {
+          "title": "Huaral",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/huaral_card.webp"
+        },
+        {
+          "title": "Huarochiri",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/huarochiri_card.webp"
+        },
+        {
+          "title": "Huaura",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/huaura_card.webp"
+        },
+        {
+          "title": "Lunahuaná",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/lunahuana_card.webp"
+        },
+        {
+          "title": "Mala",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-mala-destino-lima.webp"
+        },
+        {
+          "title": "Pachacámac",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-PACHACAMAC.webp"
+        },
+        {
+          "title": "Playas del sur de Lima",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/playas-del-sur_card.webp"
+        },
+        {
+          "title": "Reserva Paisajística Nor Yauyos Cochas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/reserva-yauyos_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Loreto",
+      "description": "Loreto es una verdadera oportunidad para desconectarte del mundo. Paisajes exóticos y una fauna y flora rica en variedad te envolverán desde que empieces tu recorrido. Conoce sus bosques sobre arena blanca, sé parte de la tribu de los Boras por un día y recorre parte del río Amazonas de la mano de los que mejor la conocen: su gente. No te pierdas de todo esto y planea tu viaje ya.",
+      "best_places": [
+        {
+          "title": "Amazon Forever Biopark",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-amazon-forever-biopark.webp"
+        },
+        {
+          "title": "Ciudad de Yurimaguas",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Ciudad-de-Yurimaguas.webp"
+        },
+        {
+          "title": "Comunidades Nativas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/loreto-comunidades-nativas_card.webp"
+        },
+        {
+          "title": "Isla de los Monos",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/isla-de-monos_card.webp"
+        },
+        {
+          "title": "La Ciudad de Iquitos",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-de-iquitos_card.webp"
+        },
+        {
+          "title": "Playas de arena blanca",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/imagen-card-Playas-de-Iquitos%20(1).webp"
+        },
+        {
+          "title": "Reserva Nacional Allpahuayo Mishana",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/reserva-nacional-allpahuayo_card.webp"
+        },
+        {
+          "title": "Río Amazonas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/rio-amazonas_card.webp"
+        },
+        {
+          "title": "Reserva Nacional Pacaya Samiria",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/reserva_nacional_pacaya_samiria_mobile.webp"
+        }
+      ]
+    },
+    {
+      "title": "Madre de Dios",
+      "description": "Madre de Dios alberga bosques infinitos, ríos sinuosos y abundante vida natural. Es reserva de flora y fauna, así como, refugio de especies en peligro de extinción como el lobo de crin y el ciervo de los pantanos.",
+      "best_places": [
+        {
+          "title": "Parque Nacional Bahuaja-Sonene",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-parque-nacional-bahua-sonene.webp"
+        },
+        {
+          "title": "Puerto Maldonado",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-puerto-maldonado_card.webp"
+        },
+        {
+          "title": "Reserva Nacional de Tambopata",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/reserva-tambopata_card.webp"
+        },
+        {
+          "title": "Tahuamanu",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-tahuamanu_card.webp"
+        },
+        {
+          "title": "Parque Nacional del Manu",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/parque_nacional_del_manu_mobile.webp"
+        }
+      ]
+    },
+    {
+      "title": "Moquegua",
+      "description": "Moquegua es el intermedio perfecto entre mar y campiña. Quebradas, formaciones rocosas y desiertos te dan la bienvenida a una región donde la buena gastronomía se hace presente. Ven y disfruta de los pueblos pintorescos, casonas, exclusivos vinos y piscos de una ciudad que tiene mucho por contar.",
+      "best_places": [
+        {
+          "title": "Campiña Moqueguana",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/Campiña-MoqueguanaCARD.webp"
+        },
+        {
+          "title": "Ciudad de Ilo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Ilo/Card_ilo.webp"
+        },
+        {
+          "title": "Ciudad de Moquegua",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-de-moquegua_card.webp"
+        },
+        {
+          "title": "Torata",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/torata_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Pasco",
+      "description": "Pasco es un lugar donde los contrastes son la base de todo: sierra y selva se unen para crear una cadena de frí\u00ADas montañas y mucha vegetación que te permitirán realizar desde deportes de aventura en los circuitos del Bosque de Piedras de Huayllay, relajarte en los baños termales de la Calera, hasta las cataratas que le dan pase a la exuberante selva central. Empieza a planear tu viaje y disfruta de todo lo que Pasco tiene para ofrecer.",
+      "best_places": [
+        {
+          "title": "Oxapampa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/oxapamapa_card.webp"
+        },
+        {
+          "title": "Pozuzo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-pozuzo.webp"
+        },
+        {
+          "title": "Provincia Daniel Alcides Carrión",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/provincia-daniel-carrion_card.webp"
+        },
+        {
+          "title": "Provincia de Pasco",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/card-ciudad-pasco.webp"
+        },
+        {
+          "title": "Santuario Nacional de Huayllay",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/santuario-huayllay_card.webp"
+        },
+        {
+          "title": "Villa Rica",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/villa-rica_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Piura",
+      "description": "En Piura, la tierra del verano eterno, encuentras balnearios y playas que son las favoritas de los surfistas: Máncora, Colán, Los Órganos, Vichayito, Cabo Blanco, Lobitos. En esta región también puedes disfrutar de su variada gastronomía, así\u00AD como conocer templos coloniales, visitar pueblos de artesanos, además de disfrutar de lagunas milagrosas como Las Huaringas. ¡Te invitamos a disfrutar de esto y mucho más en Piura!",
+      "best_places": [
+        {
+          "title": "Ayabaca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ayabaca_card.webp"
+        },
+        {
+          "title": "Canchaque",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/canchaque_card.webp"
+        },
+        {
+          "title": "Cerros de Amotape",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/cerros-de-amotape_card.webp"
+        },
+        {
+          "title": "Chulucanas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/localidad-chulucanas_card.webp"
+        },
+        {
+          "title": "Ciudad de Piura",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-piura_card.webp"
+        },
+        {
+          "title": "Colán",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/playa-colan-turistas_card.webp"
+        },
+        {
+          "title": "Huancabamba",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Huancamba.webp"
+        },
+        {
+          "title": "Lagunas Las Huaringas",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/las-huaringas_card.webp"
+        },
+        {
+          "title": "Localidad artesanal de Catacaos",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/localidad-artesana-catacaos_card.webp"
+        },
+        {
+          "title": "Peroles de Peñarol – Tambogrande",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Piura/Card_Tambogrande_Piura_515x750.webp"
+        },
+        {
+          "title": "Playas de Talara",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/playas-de-talara_card.webp"
+        },
+        {
+          "title": "Sechura",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/sechura_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Puno",
+      "description": "En Puno podrás ser parte de una atmósfera mágica donde la leyenda, las tradiciones y las fiestas multicolor se respiran todos los dí\u00ADas. Sus sorprendentes islas flotantes como los Uros, fabricadas con esteras de totoras, solo son superadas por el mí\u00ADstico Lago Titicaca. Un pueblo orgulloso de su pasado de tradición folclórica que se desborda cada año en danzas y ritos llega a su máxima expresión en la gran fiesta en honor a la Virgen de la Candelaria. No hay motivo para que no disfrutes de su riqueza, ¡empieza tu aventura ya!",
+      "best_places": [
+        {
+          "title": "Archipiélago de Wiñaymarca-Isla Anapia",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/archipielago-winaymarca_card.webp"
+        },
+        {
+          "title": "Ayaviri",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ayaviri_card.webp"
+        },
+        {
+          "title": "Chucuito, ciudad de las cajas reales",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/chucuito-cajas-reales_card.webp"
+        },
+        {
+          "title": "Ciudad de Puno",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-puno_card.webp"
+        },
+        {
+          "title": "Ciudad Rosada de Lampa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-rosada-lampa_card.webp"
+        },
+        {
+          "title": "Complejo Arqueológico de Cutimbo",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-cutimbo_card.webp"
+        },
+        {
+          "title": "Complejo Arqueológico de Sillustani",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-complejo-arqueologico-sillustani.webp"
+        },
+        {
+          "title": "Isla Amantaní",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-isla-amantani-puno.webp"
+        },
+        {
+          "title": "Isla Taquile",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/isla-taquile_card.webp"
+        },
+        {
+          "title": "Islas flotantes de los Uros",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/islas-flotantes-uros_card.webp"
+        },
+        {
+          "title": "Juli, la pequeña Roma de América",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/juli-roma-america_card.webp"
+        },
+        {
+          "title": "Moho Jardín del Altiplano",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/moho-altiplano_card.webp"
+        },
+        {
+          "title": "Península de Capachica",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/peninsula-capachica_card.webp"
+        },
+        {
+          "title": "Península de Chucuito",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/peninsula-chucuito_card.webp"
+        },
+        {
+          "title": "Pomata, Balcón Filosófico del Altiplano",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/pomata-balcon-altiplano_card.webp"
+        },
+        {
+          "title": "Pucará, Tierra del Torito",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/pucara-tierra-torito_card.webp"
+        },
+        {
+          "title": "Putina",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/putina_card.webp"
+        },
+        {
+          "title": "Reserva Nacional del Titicaca",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-reserva-nacional-titicaca.webp"
+        },
+        {
+          "title": "Vilcauta",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/vilcauta_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "San Martín",
+      "description": "Descubre la magia de San Martín y explora los cuatro destinos turísticos de esta región: Tarapoto, Alto Mayo, Abiseo y Tocache. Cada uno ofrece una experiencia única e inolvidable, con sorpresas y aventuras esperando ser descubiertas. La región de San Martín te espera con la calidez de su gente, la riqueza de su historia y la belleza de sus paisajes. ¡Ven y vive una experiencia inolvidable!",
+      "best_places": [
+        {
+          "title": "Abiseo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Abiseo.webp"
+        },
+        {
+          "title": "Alto Mayo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Cart-Destino-Alto-Mayo.webp"
+        },
+        {
+          "title": "Tarapoto",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Cart-Destino-Tarapoto.webp"
+        },
+        {
+          "title": "Tocache",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Tocache.webp"
+        }
+      ]
+    },
+    {
+      "title": "San Martín",
+      "description": "Descubre la magia de San Martín y explora los cuatro destinos turísticos de esta región: Tarapoto, Alto Mayo, Abiseo y Tocache. Cada uno ofrece una experiencia única e inolvidable, con sorpresas y aventuras esperando ser descubiertas. La región de San Martín te espera con la calidez de su gente, la riqueza de su historia y la belleza de sus paisajes. ¡Ven y vive una experiencia inolvidable!",
+      "best_places": [
+        {
+          "title": "Abiseo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Abiseo.webp"
+        },
+        {
+          "title": "Alto Mayo",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Cart-Destino-Alto-Mayo.webp"
+        },
+        {
+          "title": "Tarapoto",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/Cart-Destino-Tarapoto.webp"
+        },
+        {
+          "title": "Tocache",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Tocache.webp"
+        }
+      ]
+    },
+    {
+      "title": "Tacna",
+      "description": "Tacna es una región singular: desiertos y valles fértiles conviven para crear paisajes únicos. El clima cálido de las mañanas te permitirá disfrutar de sus playas con oleajes tranquilos y sus aguas termales y lagunas serán los lugares perfectos para que te puedas relajar. No dejes de probar el picante a la tacneña y aprovecha en visitar sus viñedos, los cuales producen vinos y piscos de exportación. La Ciudad Heroica tiene mucho que contarte, ¡empieza a descubrirla!",
+      "best_places": [
+        {
+          "title": "Ciudad de Tacna",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-de-tacna_card.webp"
+        },
+        {
+          "title": "Complejo Monumental del Campo de la Alianza",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/complejo-campo-alianza_card.webp"
+        },
+        {
+          "title": "Corredor Turistico Valle Viejo Miculla",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/corredor-valle-miculla_card.webp"
+        },
+        {
+          "title": "Humedales de Ite",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/humedales-ite_card.webp"
+        },
+        {
+          "title": "Laguna de Aricota",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/laguna-de-aricota_card.webp"
+        },
+        {
+          "title": "Santuario del Señor de Locumba",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/santuario-locumba_card.webp"
+        },
+        {
+          "title": "Tarata",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/tarata_card.webp"
+        },
+        {
+          "title": "El Valle de los Géiseres",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/valle_de_los_geiseres_mobile.webp"
+        }
+      ]
+    },
+    {
+      "title": "Tumbes",
+      "description": "Nada mejor que empezar el día en la arena de grano fino de Punta Sal o caminando entre esteros y manglares. Tumbes es el lugar indicado para los que buscan relajarse y conectarse con la naturaleza. Deléitate con el mejor cebiche de conchas negras, visita la playa Zorritos, el Zoocriadero de cocodrilos en Puerto Pizarro y descubre por quÃ© Tumbes es un pueblo con identidad. ¿Viste que es un destino obligado? Planea tu viaje ya.",
+      "best_places": [
+        {
+          "title": "Balneario de Punta Sal",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/balneario-punta-sal_card(1).webp"
+        },
+        {
+          "title": "Ciudad de Tumbes",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/ciudad-de-tumbes_card.webp"
+        },
+        {
+          "title": "Manglares e Islas de Puerto Pizarro",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/manglares-puerto-pizarro_card.webp"
+        },
+        {
+          "title": "Otras playas de Tumbes",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/otras-playas-tumbes_card.webp"
+        },
+        {
+          "title": "Parque Nacional Cerros de Amotape",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/parque-nacional-amotape_card.webp"
+        },
+        {
+          "title": "Playa Zorritos",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/balneario-de-zorritos_card.webp"
+        },
+        {
+          "title": "Santuario Nacional Los Manglares de Tumbes",
+          "image": "https://www.ytuqueplanes.com/imagenes//fotos/destinos/card-Santuario-Nacional-Los-Manglares-de-Tumbes.webp"
+        },
+        {
+          "title": "Zona Arqueológica Monumental Cabeza de Vaca",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/zona-cabeza-vaca_card.webp"
+        }
+      ]
+    },
+    {
+      "title": "Ucayali",
+      "description": "Con impactantes lagos, cataratas y una flora y fauna envidiables, Ucayali te invita a vivir una experiencia diferente con la naturaleza y sus raíces profundas. Conoce las costumbres de las etnias nativas que viven en la Amazonía y sé parte de sus tradiciones. Pasea sobre lagos enigmáticos como el Lago ImirÃ\u00ADa y recárgate de energía en las diversas cataratas como Boquerón del Padre Abad. Ucayali, un lugar que te sorprenderá¡",
+      "best_places": [
+        {
+          "title": "Caídas de Agua",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/caidas-de-agua_card.webp"
+        },
+        {
+          "title": "Comunidades Nativas en Ucayali",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/comunidades-nativas_card.webp"
+        },
+        {
+          "title": "Pucallpa",
+          "image": "https://www.ytuqueplanes.com/imagenes/fotos/destinos/pucallpa_card.webp"
+        }
+      ]
+    }
+  ]
+}
