@@ -1,7 +1,11 @@
 package com.rodrigoloq.watupakuy.utils
 
+
+data class RegionCoordinates(val name: String,
+                             val latitude: Double,
+                             val longitude: Double)
 object RegionMapper {
-    private val regionsMapper = listOf<RegionCoordinates>(
+    private val regionsMapper = listOf(
         RegionCoordinates("Amazonas", -6.2317, -77.8690),
         RegionCoordinates("Áncash", -9.5300, -77.5280),
         RegionCoordinates("Apurímac", -13.6339, -72.8814),
@@ -29,8 +33,12 @@ object RegionMapper {
         RegionCoordinates("Ucayali", -8.3791, -74.5539)
     )
 
-    fun getCoordinatesFromRegion(regionName: String, onResult:(Double, Double) -> Unit){
+    fun getLatitudeFromRegion(regionName: String): Double{
         val region = regionsMapper.find { it.name == regionName }
-        onResult(region!!.latitude , region!!.longitude)
+        return region!!.latitude
+    }
+    fun getLongitudeFromRegion(regionName: String): Double{
+        val region = regionsMapper.find { it.name == regionName }
+        return region!!.longitude
     }
 }

@@ -1,3 +1,100 @@
 <resources>
     <string name="app_name">Watupakuy</string>
+    <string name="logo_content_description">Watupakuy</string>
+
+    <!-- Selección -->
+    <string name="selection_title">Seleccione una región</string>
+    <string name="selection_subtitle">Descubre el clima, la ocupación y los lugares cercanos de tu destino.</string>
+    <string name="region_selector_placeholder">Región</string>
+    <string name="region_selector_label">Selector de región</string>
+    <string name="region_selector_expanded">Lista abierta</string>
+    <string name="region_selector_collapsed">Lista cerrada</string>
+    <string name="region_selector_selected">Región seleccionada: %1$s</string>
+    <string name="month_selector_title">¿En qué mes viajas?</string>
+    <string name="month_selector_previous_year">Año anterior</string>
+    <string name="month_selector_next_year">Año siguiente</string>
+    <string name="month_selector_range">Puedes consultar de %1$s a %2$s (hasta 5 meses desde hoy).</string>
+    <string name="month_selector_unavailable">No disponible</string>
+    <string name="month_selector_monthly_note">Clima y ocupación son estimaciones mensuales, no pronósticos por día.</string>
+    <string name="view_report">Ver reporte</string>
+    <string name="view_report_hint_region">Elige una región para continuar</string>
+    <string name="view_report_hint_month">Elige un mes para continuar</string>
+
+    <!-- Reporte: cabecera -->
+    <string name="report_change_selection">Cambiar selección</string>
+    <string name="report_refresh">Actualizar reporte</string>
+    <string name="report_month_reference">Reporte de %1$s</string>
+    <string name="report_offline_banner">Sin conexión. Mostrando datos guardados.</string>
+    <string name="report_partial_banner">Algunas secciones no se pudieron actualizar.</string>
+    <string name="report_updated_at">Actualizado: %1$s</string>
+    <string name="report_cached_at">Datos guardados: %1$s</string>
+    <string name="report_bundled_content">Contenido incluido en la app</string>
+    <string name="report_retry">Reintentar</string>
+    <string name="report_full_error_title">No pudimos cargar el reporte</string>
+    <string name="report_full_error_body">No hay conexión y todavía no hay datos guardados para esta región y mes. Conéctate a internet e inténtalo de nuevo.</string>
+
+    <!-- Reporte: turismo -->
+    <string name="section_tourism">Resumen turístico</string>
+    <string name="tourism_top_destinations">Principales destinos</string>
+    <string name="tourism_empty">Aún no hay información turística para esta región.</string>
+    <string name="tourism_destination_image">Imagen de %1$s</string>
+
+    <!-- Reporte: clima -->
+    <string name="section_weather">Clima estimado</string>
+    <string name="weather_period">Pronóstico estacional · %1$s</string>
+    <string name="weather_mean_temperature">Temperatura media del mes</string>
+    <string name="weather_max_min">Máx. %1$s° · Mín. %2$s°</string>
+    <string name="weather_rain">Lluvia del mes</string>
+    <string name="weather_clouds">Nubosidad</string>
+    <string name="weather_wind">Viento</string>
+    <string name="weather_sun">Horas de sol</string>
+    <string name="weather_value_mm">%1$s mm</string>
+    <string name="weather_value_percent">%1$s %%</string>
+    <string name="weather_value_kmh">%1$s km/h</string>
+    <string name="weather_value_hours">%1$s h</string>
+    <string name="weather_snow">Nieve del mes</string>
+    <string name="weather_dew_point">Punto de rocío</string>
+    <string name="weather_value_cm">%1$s cm</string>
+    <string name="weather_value_celsius">%1$s °C</string>
+    <string name="weather_disclaimer">Valores medios estimados para todo el mes. No es un pronóstico diario.</string>
+    <string name="weather_empty">No hay pronóstico disponible para este mes.</string>
+    <string name="weather_attribution">Datos: Open-Meteo (CC BY 4.0)</string>
+
+    <!-- Reporte: ocupación -->
+    <string name="section_occupancy">Ocupación hotelera estimada</string>
+    <string name="occupancy_total">Ocupación total</string>
+    <string name="occupancy_hotel">Hoteles</string>
+    <string name="occupancy_hostal">Hostales</string>
+    <string name="occupancy_uncategorized">No clasificados</string>
+    <string name="occupancy_percent">%1$s %%</string>
+    <string name="occupancy_clamped">Valor ajustado al rango permitido</string>
+    <string name="occupancy_note">Cada clase se estima por separado: no suman ni promedian el total.</string>
+    <string name="occupancy_based_on">Estimación estadística basada en datos hasta %1$s.</string>
+    <string name="occupancy_empty">No hay estimación de ocupación para este mes.</string>
+
+    <!-- Reporte: lugares -->
+    <string name="section_places">Lugares cercanos</string>
+    <string name="places_radius_note">Dentro de 5 km del punto de referencia de la región.</string>
+    <string name="places_group_attractions">Atracciones</string>
+    <string name="places_group_accommodation">Alojamiento</string>
+    <string name="places_group_food">Restaurantes y cafés</string>
+    <string name="places_group_supermarkets">Supermercados</string>
+    <string name="places_group_health">Salud</string>
+    <string name="places_group_entertainment">Entretenimiento</string>
+    <string name="places_group_empty">No hay lugares registrados en 5 km para esta categoría.</string>
+    <string name="places_empty">No encontramos lugares cercanos para esta región.</string>
+    <string name="places_show_all">Ver todos (%1$d)</string>
+    <string name="places_show_less">Ver menos</string>
+    <string name="places_attribution">Powered by Geoapify · © OpenStreetMap contributors</string>
+
+    <!-- Errores -->
+    <string name="error_no_connection">Sin conexión a internet.</string>
+    <string name="error_timeout">El servicio tardó demasiado en responder.</string>
+    <string name="error_server">El servicio no está disponible en este momento.</string>
+    <string name="error_rate_limited">Se alcanzó el límite de consultas del servicio. Inténtalo más tarde.</string>
+    <string name="error_configuration">El servicio no está configurado correctamente.</string>
+    <string name="error_invalid_response">El servicio respondió con datos inesperados.</string>
+    <string name="error_unknown">Ocurrió un error inesperado.</string>
+    <string name="section_loading">Cargando %1$s</string>
+
 </resources>

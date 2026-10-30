@@ -4,6 +4,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.kotlin.ksp)
+    alias(libs.plugins.hilt)
 }
 
 val localProperties = Properties()
@@ -79,12 +80,17 @@ dependencies {
 
     //room
     val room_version = "2.8.4"
-
     implementation("androidx.room:room-runtime:$room_version")
-
-    // If this project uses any Kotlin source, use Kotlin Symbol Processing (KSP)
-    // See Add the KSP plugin to your project
     ksp("androidx.room:room-compiler:$room_version")
+
+    //hilt
+    implementation(libs.hilt.android)
+    ksp(libs.hilt.compiler)
+    implementation(libs.androidx.hilt.navigation.compose)
+
+    //maps
+    implementation("com.google.maps.android:maps-compose:6.4.1")
+    implementation("com.google.android.gms:play-services-maps:19.2.0")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
